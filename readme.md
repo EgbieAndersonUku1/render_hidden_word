@@ -1,4 +1,9 @@
 
+# Challenge Description
+
+A URL is provided that points to data containing hidden information. Your task is to build a program that retrieves this data and reveals hidden characters by interpreting their associated x-y coordinates.
+
+
 # Render Hidden Characters to Word
 
 This is a simple Python script that retrieves data from a given URL containing a list of characters associated with specific x- and y-coordinates. These characters are in Unicode but when rendered based on their coordinates, they reveal a hidden word.
